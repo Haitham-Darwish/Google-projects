@@ -1,7 +1,6 @@
 # Word Cloud
 
-This project made by Haitham as a part of google project in google course
-This program used to draw word size depend on the repetitive of it.
+This project made by Haitham as a part of google project in google course This program used to draw word size depend on the repetition of it.
 
 # How it work
 Click on the 'Browse' to get the file text run all other cell, get the image.
