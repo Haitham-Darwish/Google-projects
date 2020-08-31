@@ -1,6 +1,3 @@
-This is the third course project answer at google specialization
-
-This commit added from Qwiklabs
-
-This project teach us how to use git and github
-how to work remotly through Qwiklabs
+This is the third-course project's answer from google's specialization.
+This commit added from Qwiklabs.
+This project taught us how to use git and GitHub, how to work remotely through Qwiklabs.
